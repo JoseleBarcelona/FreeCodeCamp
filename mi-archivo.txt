@@ -1,1 +1,2 @@
 ¡Hola, FreeCodeCamp!
+Estoy aprendiendo Git
